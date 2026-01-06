@@ -1,5 +1,5 @@
 // Data
-const designerPhone = "5511999999999"; // Replace with actual number if provided
+const designerPhone = "5511962833463"; // Replace with actual number if provided
 
 // State
 let selectedService = "";
